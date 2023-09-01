@@ -1,3 +1,4 @@
 Hola mundo estoy sobreecribiendo el archivo 2 luego de haber utilizado el comnado git add
 Hola mundo estoy sobreecribiendo el archivo 2 luego de haber utilizado el comnado git add 2 veces
 Hola mundo estoy sobreecribiendo el archivo 2 luego de haber utilizado el comnado git add 3 veces
+Hola mundo estoy sobreecribiendo el archivo 2 luego de haber utilizado el comnado git add 4 veces esta leccion dice poner algo con sentido
